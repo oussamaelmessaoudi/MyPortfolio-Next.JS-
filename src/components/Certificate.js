@@ -20,21 +20,21 @@ export function Certificate() {
       },
       {
         quote:
-          "This certification validates advanced SQL skills, including complex querying, joins, subqueries, window functions, and database optimization. It demonstrates proficiency in solving challenging database problems and efficiently managing data using SQL.",
+          "This certification validates foundational Python programming skills, including syntax, variables, loops, functions, and basic data structures. It demonstrates the ability to write and troubleshoot simple Python programs, laying the groundwork for more advanced programming concepts.",
         name: "Intro to programming (Python)",
         designation: "Kiggle",
         src: "/Python.png",
       },
       {
         quote:
-          "This certification validates foundational Adobe Photoshop skills, including basic image editing, layer management, selection tools, color correction, and text manipulation. It demonstrates proficiency in creating and modifying visual content using Adobe Photoshop, showcasing the ability to work with essential tools and techniques for graphic design and photo enhancement.",
+          "This certification validates basic Adobe Photoshop skills, including image editing, layer management, selection tools, and color correction. It demonstrates proficiency in using essential tools for graphic design and photo enhancement.",
         name: "Adobe Photoshop for beginners",
         designation: "Alison",
         src: "/Photoshop.jpg",
       },
       {
         quote:
-          "This certification validates fundamental Google Sheets skills, including data organization, formulas, pivot tables, conditional formatting, and data visualization. It demonstrates proficiency in automating workflows, managing large datasets, and creating dynamic reports using Google Sheets' advanced features. This certification showcases the ability to streamline data processes and improve efficiency through automation and optimized spreadsheet management.",
+          "This certification validates essential Google Sheets skills, including data organization, formulas, pivot tables, and automation. It demonstrates proficiency in managing datasets and streamlining workflows for efficient data processing and reporting.",
         name: "Google Sheets",
         designation: "Simplilearn",
         src: "/Google.jpg",
