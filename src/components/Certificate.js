@@ -18,6 +18,13 @@ export function Certificate() {
         designation: "HackerRank",
         src: "/SQL.jpg",
       },
+      {
+        quote:
+          "This certification validates advanced SQL skills, including complex querying, joins, subqueries, window functions, and database optimization. It demonstrates proficiency in solving challenging database problems and efficiently managing data using SQL.",
+        name: "Intro to programming (Python)",
+        designation: "Kiggle",
+        src: "/Python.png",
+      },
   
 
   ];
