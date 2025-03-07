@@ -37,7 +37,7 @@ export function Certificate() {
           "This certification validates fundamental Google Sheets skills, including data organization, formulas, pivot tables, conditional formatting, and data visualization. It demonstrates proficiency in automating workflows, managing large datasets, and creating dynamic reports using Google Sheets' advanced features. This certification showcases the ability to streamline data processes and improve efficiency through automation and optimized spreadsheet management.",
         name: "Google Sheets",
         designation: "Simplilearn",
-        src: "/Google Sheets.jpg",
+        src: "/Google.jpg",
       },
   
 
