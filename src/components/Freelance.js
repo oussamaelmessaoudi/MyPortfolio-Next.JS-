@@ -21,6 +21,7 @@ const projects = [
       { type: "image", url: "/Shopify.jpg", caption: "Shopify Thumbnail" },
       { type: "image", url: "/Story-Time.jpg", caption: "Story Time Thumbnail" },
       { type: "image", url: "/Brazil.jpg", caption: "Vlog Thumbnail" },
+      { type: "image", url: "/Make-money-online.jpg", caption: "Making Money Thumbnail" },
     ]
   },
   // Add other projects...
